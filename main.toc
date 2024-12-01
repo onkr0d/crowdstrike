@@ -6,4 +6,6 @@
 \contentsline {section}{\numberline {1.4}EPP \& EDR Anti-virus Solutions}{4}{section.1.4}%
 \contentsline {section}{\numberline {1.5}CrowdStrike Falcon Sensor Distinctions}{4}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Faulty Code and Production Updates:}{5}{section.1.6}%
-\contentsline {chapter}{Bibliography}{6}{chapter*.2}%
+\contentsline {section}{\numberline {1.7}CrowdStrike Incident Report}{5}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Windows Kernel Crash Dump Analysis}{7}{section.1.8}%
+\contentsline {chapter}{Bibliography}{13}{chapter*.4}%

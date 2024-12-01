@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.8.15)  1 DEC 2024 01:21
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.8.15)  1 DEC 2024 17:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1049,8 +1049,31 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box86
 \enit@count@id=\count419
 \enitdp@description=\count420
-)
-LaTeX Info: Redefining \pmod on input line 114.
+) (C:\Users\tuber\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count421
+\lst@gtempboxa=\box87
+\lst@token=\toks47
+\lst@length=\count422
+\lst@currlwidth=\dimen347
+\lst@column=\count423
+\lst@pos=\count424
+\lst@lostspace=\dimen348
+\lst@width=\dimen349
+\lst@newlines=\count425
+\lst@lineno=\count426
+\lst@maxwidth=\dimen350
+ (C:\Users\tuber\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
+) (C:\Users\tuber\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
+\c@lstnumber=\count427
+\lst@skipnumbers=\count428
+\lst@framebox=\box88
+) (C:\Users\tuber\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/05/25 1.10b listings configuration
+))
+Package: listings 2024/05/25 1.10b (Carsten Heinz)
+LaTeX Info: Redefining \pmod on input line 115.
 ) (main.aux)
 \openout1 = `main.aux'.
 
@@ -1119,7 +1142,9 @@ Package hyperref Info: Link coloring ON on input line 12.
 \openout5 = `main.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count429
 LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
  (C:\Users\tuber\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1137,35 +1162,214 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [3]
 
-[4]) (main.bbl
+[4]
 
 [5]
+File: Sections/crowd/graph.png Graphic file (type bmp)
+<Sections/crowd/graph.png>
+File: Sections/crowd/rrc.png Graphic file (type bmp)
+<Sections/crowd/rrc.png>
+
+
+[6]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 155.
+
+
+[7]
+Overfull \hbox (19.99995pt too wide) in paragraph at lines 207--208
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+
+[8]
+Overfull \hbox (38.00014pt too wide) in paragraph at lines 253--255
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (74.0005pt too wide) in paragraph at lines 257--259
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.99983pt too wide) in paragraph at lines 260--261
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.99983pt too wide) in paragraph at lines 270--272
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.99977pt too wide) in paragraph at lines 273--274
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.99983pt too wide) in paragraph at lines 280--281
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (56.00032pt too wide) in paragraph at lines 283--284
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \vbox (badness 1005) has occurred while \output is active []
+
+
+
+[9]
+Overfull \hbox (26.00002pt too wide) in paragraph at lines 291--292
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (26.00002pt too wide) in paragraph at lines 298--300
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (44.0002pt too wide) in paragraph at lines 313--314
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+
+[10]
+Overfull \hbox (19.99995pt too wide) in paragraph at lines 331--333
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (19.99995pt too wide) in paragraph at lines 340--342
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (68.00044pt too wide) in paragraph at lines 346--347
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+
+[11]
+Overfull \hbox (1.99977pt too wide) in paragraph at lines 374--375
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (13.9999pt too wide) in paragraph at lines 388--389
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (1.99977pt too wide) in paragraph at lines 393--394
+[][][][][][][][][][][][][][][][][] 
+ []
+
+) (main.bbl
+
+[12]
 bibitemlist
 
-Underfull \hbox (badness 1558) in paragraph at lines 32--38
+Underfull \hbox (badness 6608) in paragraph at lines 32--37
+[]\TU/lmr/m/n/10 Cosive.  Crowdstrike falcon complete.  [][]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--44
+[][][] [] [][][][][][][][][][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[][]\TU/lmr/m/n/10 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--51
+[]\TU/lmr/m/n/10 CrowdStrike.  Falcon overwatch.  [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][][] [] [][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 53--59
 []\TU/lmr/m/n/10 CrowdStrike.  Channel file 291 incident - remediation and guidance hub.  [][]$[][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--82
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
+[]\TU/lmr/m/n/10 CrowdStrike.  External technical root cause analysis — channel file
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
+\TU/lmr/m/n/10 291.  [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][] [] [][][][][][][] [] [][][][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][] [] [][][][] [] [][][]$[][]\TU/lmr/m/n/10 , August 2024.
+ []
+
+
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 112--118
 []\TU/lmr/m/n/10 Microsoft.  Kernel-mode code signing requirements.  [][]$[][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--82
+Underfull \hbox (badness 10000) in paragraph at lines 112--118
 [] [] [][][][][] [] [][][][][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][] [] [][][][][][][] [] [][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--82
+Underfull \hbox (badness 10000) in paragraph at lines 112--118
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[][]\TU/lmr/m/n/10 , June 2022.
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 120--126
+[]\TU/lmr/m/n/10 Microsoft.  Windows hardware compatibility program certification process.
+ []
 
-[6])
 
-[7]
+Underfull \hbox (badness 10000) in paragraph at lines 120--126
+[][]$[][][][][] [] [] [] [][][][][] [] [][][][][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][] [] [][][][][][] [] [][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 136--141
+[]\TU/lmr/m/n/10 Proofpoint.  What is telemetry? telemetry cybersecurity explained.  [][]$[][][][][] [] [] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--141
+[][][][][][][][][][] [] [][][] [] [][] [] [][][][][][][][][][][][][][][][][] [] [][][][][][][][][][] [] [] [] [][][][] [] [][][][][][][][] [] [][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--141
+[][][][][][][][][][] [] [][][][][][] [] [][][][][][][][][][][][] [][] [][][] [] [][][][][][][][][][][][][][][][][] [] [][] [] [][][][] [] [][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 178--185
+[]\TU/lmr/m/n/10 David Weston.  Windows security best practices for integrating and managing se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--185
+\TU/lmr/m/n/10 curity tools.  [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][] [] [][][][] [] [][][][] [] [][] [] [][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--185
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$[][]\TU/lmr/m/n/10 ,
+ []
+
+)
+
+[14]
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
@@ -1175,15 +1379,15 @@ LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D0B550770BEF37EF7CEC800632F28E28;1575.
+(rerunfilecheck)             Checksum: 5EF73AC4C4227C9EA60239857FC0CF05;2008.
  ) 
 Here is how much of TeX's memory you used:
- 29357 strings out of 409029
- 523134 string characters out of 5756741
- 1947612 words of memory out of 5000000
- 51611 multiletter control sequences out of 15000+600000
- 564864 words of font info for 74 fonts, out of 8000000 for 9000
+ 30615 strings out of 409029
+ 542449 string characters out of 5756741
+ 2011612 words of memory out of 5000000
+ 52854 multiletter control sequences out of 15000+600000
+ 564872 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 107i,11n,110p,576b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,12n,110p,576b,1661s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (7 pages, 119440 bytes).
+Output written on main.xdv (14 pages, 372716 bytes).
