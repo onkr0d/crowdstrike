@@ -1,0 +1,44 @@
+\documentclass{memoir}
+\input{Configs/configs}
+
+\title{Crowdstrike Report}
+\author{Christian J. Rudder, }
+\date{November 2024}
+
+\chapterstyle{dash} % Chatper style
+\setlength{\beforechapskip}{-1em} % Adjusts space before the chapter heading
+
+
+\begin{document}
+
+\maketitle
+\setcounter{tocdepth}{2}
+
+\tableofcontents
+
+% Intentionally left blank
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\vfill
+\begin{center}
+    \textit{This page is left intentionally blank.}
+\end{center}
+\vfill
+\newpage
+\thispagestyle{empty}
+
+
+
+
+\chapter{Crowdstrike Report}
+
+\input{Sections/crowd/crowd}
+
+
+\bibliographystyle{plain} % We choose the "plain" reference style
+\bibliography{refs} % Entries are in the refs.bib file
+
+
+
+\end{document}

@@ -1,0 +1,110 @@
+\begin{thebibliography}{10}
+
+\bibitem{awati_kernel_panic}
+Rahul Awati.
+\newblock Kernel panic.
+\newblock
+  \url{https://www.techtarget.com/searchdatacenter/definition/kernel-panic}.
+\newblock Accessed: November 30, 2024.
+
+\bibitem{baker_rootkits_2023}
+Kurt Baker.
+\newblock Rootkit malware.
+\newblock
+  \url{https://www.crowdstrike.com/en-us/cybersecurity-101/malware/rootkits/},
+  November 2023.
+\newblock Accessed: November 30, 2024.
+
+\bibitem{cisco_endpoint_security}
+Cisco.
+\newblock What is endpoint security?
+\newblock
+  \url{https://www.cisco.com/c/en/us/products/security/endpoint-security/index.html}.
+\newblock Accessed: November 30, 2024.
+
+\bibitem{wikipedia_kpp}
+Wikipedia contributors.
+\newblock Kernel patch protection.
+\newblock \url{https://en.wikipedia.org/wiki/Kernel_Patch_Protection}.
+\newblock Accessed: November 30, 2024.
+
+\bibitem{crowdstrike_channel_file_291_2024}
+CrowdStrike.
+\newblock Channel file 291 incident - remediation and guidance hub.
+\newblock
+  \url{https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/},
+  August 2024.
+\newblock Page last updated 2024-08-06 2119 UTC.
+
+\bibitem{crowdstrike2024falcon}
+CrowdStrike.
+\newblock Technical details: Falcon content update for windows hosts, 2024.
+\newblock Executive Viewpoint, published on July 20, 2024.
+
+\bibitem{ibm_endpoint_security}
+IBM.
+\newblock What is endpoint security?
+\newblock \url{https://www.ibm.com/topics/endpoint-security}.
+\newblock Accessed: November 30, 2024.
+
+\bibitem{ionescu_kernel_access_2024}
+Alex Ionescu, Milos Petrbok, Martin O’Brien, and Johnny Shaw.
+\newblock Tech analysis: Crowdstrike's kernel access and security architecture.
+\newblock {\em CrowdStrike Blog}, August 2024.
+\newblock Executive Viewpoint, Accessed: November 30, 2024.
+
+\bibitem{kerner_crowdstrike_outage_2024}
+Sean~Michael Kerner.
+\newblock Crowdstrike outage explained: What caused it and what’s next.
+\newblock {\em TechTarget}, October 2024.
+
+\bibitem{microsoft_obregistercallbacks}
+Microsoft.
+\newblock Obregistercallbacks function (wdm.h).
+\newblock
+  \url{https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-obregistercallbacks}.
+\newblock Accessed: November 30, 2024.
+
+\bibitem{microsoft_ioc}
+Microsoft.
+\newblock What are indicators of compromise (iocs)?
+\newblock
+  \url{https://www.microsoft.com/en-us/security/business/security-101/what-are-indicators-of-compromise-ioc}.
+\newblock Accessed: November 30, 2024.
+
+\bibitem{microsoft_kmcs}
+Microsoft.
+\newblock Kernel-mode code signing requirements.
+\newblock
+  \url{https://learn.microsoft.com/en-us/windows-hardware/drivers/install/kernel-mode-code-signing-requirements--windows-vista-and-later-},
+  June 2022.
+\newblock 5 contributors, Accessed: November 30, 2024.
+
+\bibitem{reasonlabs_kernel_hooking}
+ReasonLabs.
+\newblock What is kernel-level hooking?
+\newblock
+  \url{https://cyberpedia.reasonlabs.com/EN/kernel-level%20hooking.html}.
+\newblock Accessed: November 30, 2024.
+
+\bibitem{sato_crowdstrike_ceo_2024}
+Mia Sato.
+\newblock Crowdstrike ceo was working for mcafee in 2010 when there was a
+  global tech outage too.
+\newblock {\em The Verge}, July 2024.
+\newblock Posted at 9:33 AM EDT, 9 Comments, 9 New.
+
+\bibitem{tidy_crowdstrike_outage_2024}
+Joe Tidy.
+\newblock Crowdstrike it outage affected 8.5 million windows devices, microsoft
+  says.
+\newblock {\em BBC News}, July 2024.
+
+\bibitem{volenik_crowdstrike_ceo_2024}
+Adrian Volenik.
+\newblock Crowdstrike ceo was working for mcafee in 2010 when there was a
+  global tech outage too.
+\newblock {\em The Verge}, July 2024.
+\newblock 4 min read.
+
+\end{thebibliography}

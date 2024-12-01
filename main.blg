@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Database file #1: refs.bib
+Warning--I'm ignoring volenik_crowdstrike_ceo_2024's extra "note" field
+--line 77 of file refs.bib
+Warning--I'm ignoring sato_crowdstrike_ceo_2024's extra "note" field
+--line 101 of file refs.bib
+Warning--I'm ignoring crowdstrike_channel_file_291_2024's extra "note" field
+--line 125 of file refs.bib
+You've used 16 entries,
+            2118 wiz_defined-function locations,
+            566 strings with 6434 characters,
+and the built_in function-call counts, 3531 in all, are:
+= -- 345
+> -- 128
+< -- 0
++ -- 54
+- -- 38
+* -- 130
+:= -- 627
+add.period$ -- 61
+call.type$ -- 16
+change.case$ -- 67
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 127
+empty$ -- 328
+format.name$ -- 38
+if$ -- 747
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 5
+newline$ -- 96
+num.names$ -- 32
+pop$ -- 123
+preamble$ -- 1
+purify$ -- 51
+quote$ -- 0
+skip$ -- 94
+stack$ -- 0
+substring$ -- 80
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 64
+warning$ -- 0
+while$ -- 32
+width$ -- 18
+write$ -- 181
+(There were 3 warnings)
