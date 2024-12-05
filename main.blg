@@ -1,16 +1,14 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
-Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
-Reallocating 'name_of_file' (item size: 1) to 5 items.
 Database file #1: refs.bib
 Warning--I'm ignoring volenik_crowdstrike_ceo_2024's extra "note" field
---line 77 of file refs.bib
+--line 39 of file refs.bib
 Warning--I'm ignoring sato_crowdstrike_ceo_2024's extra "note" field
---line 101 of file refs.bib
+--line 51 of file refs.bib
 Warning--I'm ignoring crowdstrike_channel_file_291_2024's extra "note" field
---line 125 of file refs.bib
+--line 63 of file refs.bib
 You've used 26 entries,
             2118 wiz_defined-function locations,
             604 strings with 8191 characters,

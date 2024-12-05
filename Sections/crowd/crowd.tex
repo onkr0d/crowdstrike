@@ -4,7 +4,7 @@
 \label{sec:crowd}
 
 Friday July 19, 2024, CrowdStrike, a leading cybersecurity firm, released an update to its Falcon Sensor
-software designed for Windows-based systems. The update, intending to enhance threat detection single-handedly,
+software designed for Windows-based systems. The update, intending to enhance threat detection, single-handedly
 disrupted the global IT infrastructure, causing widespread system crashes across various industries
 (e.g., airlines, healthcare, and banking) \cite{crowdstrike2024falcon}. 
 
@@ -16,28 +16,27 @@ estimated \textbf{8.5 million devices} were struck by the blue screen of death (
 
 CrowdStrike's Founder and CEO George Kurtz, addressed the public on live TV, stating ``That we're deeply sorry for the impact we've caused'' \cite{sato_crowdstrike_ceo_2024}.
 Though this isn't the first time George Kurtz has been caught in the crossfire of a cybersecurity incident.
-In 2019, George Kurts the customer-facing Field Chief Technology Officer at McAfee, released a faulty update.
+In 2010, George Kurts was the Executive Vice President and Chief Technology Officer at McAfee when they released a faulty update, also causing a BSoD.
 The update, mistakenly identified a critical Windows system file (svchost.exe) as malware, causing the system to endlessly loop \cite{volenik_crowdstrike_ceo_2024}.
 
-In a blog posted by CrowdSTrike ``as of 8:00 p.m. EDT on July 29, 2024, ~99\% of Windows sensors were back online'' \cite{crowdstrike_channel_file_291_2024}.
-The incident was said to occur due to a bug which expected 20 input fields instead of 21, causing the software to crash. Channel File 291 was identified the 
+In a blog posted by CrowdStrike, ``as of 8:00 p.m. EDT on July 29, 2024, ~99\% of Windows sensors were back online'' \cite{crowdstrike_channel_file_291_2024}.
+The incident occurred due to a bug which expected 20 input fields instead of 21, causing the software to crash. Channel File 291 was identified as the 
 culprit and was removed from the software \cite{crowdstrike_channel_file_291_2024}.
 
 \section{Modern Endpoint Security}
 \label{sec:falcon}
 
-First we will break down what exactly the Falcon Sensor is. The Falcon Sensor claims to be a lightweight agent installed on endpoint devices to monitor and record system activity.
-Ensuring \textbf{endpoints} means ensuring devices that connect to a network, such as laptops, desktops, and mobile devices. \textbf{Endpoint security} is the process of 
-securing the various points at which a device connects to a network. 90\% of successful breaches and 70\% of data breaches originate at endpoint,
-costing companies millions \cite{ibm_endpoint_security}. 
+CrowdStrike, as a cybersecurity company, offers endpoint security in the form of their Falcon solution. Falcon is a lightweight agent installed on endpoint devices to monitor and record system activity.
+Securing \textbf{endpoints} means securing devices that connect to a network, such as laptops, desktops, and mobile devices, and thus, this is known as \textbf{endpoint security}.
+90\% of successful breaches and 70\% of data breaches originate at an endpoint, costing companies millions \cite{ibm_endpoint_security}. 
 
-Since many large scale companies have moved to the cloud, and many working from home, ever more devices are connecting to sensitive data. This means many endpoint solutions 
-constantly monitor and record system activity to detect and prevent threats. This in itself utilizes cloud-based systems to access threat intelligence, providing autonomous 
+Since many large scale companies have moved to the cloud, and many employees are working from home, ever more devices are connecting to sensitive data. This means many endpoint solutions 
+have to constantly monitor and record system activity to detect and prevent threats. This in itself utilizes cloud-based systems to access threat intelligence, providing autonomous 
 real-time protection \cite{cisco_endpoint_security}
 
 Many original anti-viruses signature based, protecting endpoints on a device by scanning for known malware---\textbf{Indicators of Attack (IOA)}. 
 This relied on a database of known malware signatures. CrowdStrike and many others
-have opted to use \textbf{next-gen anti-virus (NGAV)} machine learning Technology,
+have opted to use \textbf{next-gen anti-virus (NGAV)} machine learning technology,
 to aid in detecting newer types of IOA vectors that are often fileless, by monitoring system memory  \cite{ionescu_kernel_access_2024}.
 
 \newpage
@@ -402,13 +401,15 @@ FileObj: ffffde8a879b29a0
 \noindent
 
 \noindent
-Line 23 (modified to fit page) shows the full file path of Channel File 291, confirming the file path of the Channel File 291.
-There was no need to analyze the content of the file as the crash was due to an out-of-bounds error. The 
-crash dump is not publicly available, though the microsoft team confirms the out-of-bounds error in the Channel File 291.
+Line 23 (modified to fit page) shows the full file path of Channel File 291, confirming the cause of the crash.
+The dump shows the crash is due to an out-of-bounds error.
+While the crash dump is not publicly available, the Microsoft team confirms the out-of-bounds error in the given crash dump.
+Microsoft confirmed the crash to be Crowdstrike's fault early on into the incident due to there being no public facing crash message, only a BSoD, which led to some to believe Microsoft was at fault.
 
-Despite Microsoft confirming the issues caused by CrowdStrike, this does not absolve their CI/CD practices.
-This should not go unnoticed, especially considering that this incident Kurtz's first.
-His leadership warrants a careful review, as the company's test-driven development seem to fall largely behind industry standards.
-The lack of end-to-end testing introduced critical security vulnerabilities within their CI/CD pipelines. Such an erroneous
-mistake could have been easily caught in a test or development environments, raising substantial concerns.
+Despite the fact that this is not Kurtz's first significant security mishap, it would be unfair to place responsibility squarely on his shoulders: 
+each Windows sensor release is certified through extensive testing in Microsoft's HLK and WHQL.
+The lack of comprehensive end-to-end testing introduced a critical error that was not caught by their CI pipelines. Such an erroneous
+mistake could have been easily caught in a test or development environments, raising substantial concerns. 
+The 12 page incident report duly noted this, mentioning under point 5 of the Findings and mitigations section that CrowdStrike should 
+"expand [validation] to include testing within the Content Interpreter" \cite{crowdstrikechannelfile291rca}.
 Even though customers managed to recover from the incident, but CrowdStrike continues to face severe legal repercussions.

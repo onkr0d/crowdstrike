@@ -3,23 +3,19 @@
 \bibitem{awati_kernel_panic}
 Rahul Awati.
 \newblock Kernel panic.
-\newblock
-  \url{https://www.techtarget.com/searchdatacenter/definition/kernel-panic}.
+\newblock \url{https://www.techtarget.com/searchdatacenter/definition/kernel-panic}.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{baker_rootkits_2023}
 Kurt Baker.
 \newblock Rootkit malware.
-\newblock
-  \url{https://www.crowdstrike.com/en-us/cybersecurity-101/malware/rootkits/},
-  November 2023.
+\newblock \url{https://www.crowdstrike.com/en-us/cybersecurity-101/malware/rootkits/}, November 2023.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{cisco_endpoint_security}
 Cisco.
 \newblock What is endpoint security?
-\newblock
-  \url{https://www.cisco.com/c/en/us/products/security/endpoint-security/index.html}.
+\newblock \url{https://www.cisco.com/c/en/us/products/security/endpoint-security/index.html}.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{wikipedia_kpp}
@@ -31,38 +27,31 @@ Wikipedia contributors.
 \bibitem{cosive_falcon_complete}
 Cosive.
 \newblock Crowdstrike falcon complete.
-\newblock
-  \url{https://www.cosive.com/capabilities/crowdstrike-falcon-complete}.
+\newblock \url{https://www.cosive.com/capabilities/crowdstrike-falcon-complete}.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{crowdstrike_falcon_complete}
 CrowdStrike.
 \newblock Falcon complete: Next-gen managed detection and response (mdr).
-\newblock
-  \url{https://www.crowdstrike.com/services/endpoint-security/falcon-complete-next-gen-mdr/}.
+\newblock \url{https://www.crowdstrike.com/services/endpoint-security/falcon-complete-next-gen-mdr/}.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{crowdstrike_overwatch}
 CrowdStrike.
 \newblock Falcon overwatch.
-\newblock
-  \url{https://www.crowdstrike.com/platform/threat-intelligence/adversary-overwatch}.
+\newblock \url{https://www.crowdstrike.com/platform/threat-intelligence/adversary-overwatch}.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{crowdstrike_channel_file_291_2024}
 CrowdStrike.
 \newblock Channel file 291 incident - remediation and guidance hub.
-\newblock
-  \url{https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/},
-  August 2024.
+\newblock \url{https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/}, August 2024.
 \newblock Page last updated 2024-08-06 2119 UTC.
 
 \bibitem{crowdstrikechannelfile291rca}
 CrowdStrike.
 \newblock External technical root cause analysis — channel file 291.
-\newblock
-  \url{https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf},
-  August 2024.
+\newblock \url{https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf}, August 2024.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{crowdstrike2024falcon}
@@ -73,8 +62,7 @@ CrowdStrike.
 \bibitem{redhat_cicd_2023}
 Red Hat.
 \newblock What is ci/cd?
-\newblock \url{https://www.redhat.com/en/topics/devops/what-is-ci-cd}, December
-  2023.
+\newblock \url{https://www.redhat.com/en/topics/devops/what-is-ci-cd}, December 2023.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{ibm_endpoint_security}
@@ -97,90 +85,72 @@ Sean~Michael Kerner.
 \bibitem{microsoft_obregistercallbacks}
 Microsoft.
 \newblock Obregistercallbacks function (wdm.h).
-\newblock
-  \url{https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-obregistercallbacks}.
+\newblock \url{https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-obregistercallbacks}.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{microsoft_ioc}
 Microsoft.
 \newblock What are indicators of compromise (iocs)?
-\newblock
-  \url{https://www.microsoft.com/en-us/security/business/security-101/what-are-indicators-of-compromise-ioc}.
+\newblock \url{https://www.microsoft.com/en-us/security/business/security-101/what-are-indicators-of-compromise-ioc}.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{microsoft_kmcs}
 Microsoft.
 \newblock Kernel-mode code signing requirements.
-\newblock
-  \url{https://learn.microsoft.com/en-us/windows-hardware/drivers/install/kernel-mode-code-signing-requirements--windows-vista-and-later-},
-  June 2022.
+\newblock \url{https://learn.microsoft.com/en-us/windows-hardware/drivers/install/kernel-mode-code-signing-requirements--windows-vista-and-later-}, June 2022.
 \newblock 5 contributors, Accessed: November 30, 2024.
 
 \bibitem{microsoftwhcpcertification}
 Microsoft.
 \newblock Windows hardware compatibility program certification process.
-\newblock
-  \url{https://learn.microsoft.com/en-us/windows-hardware/design/compatibility/whcp-certification-process},
-  March 2022.
+\newblock \url{https://learn.microsoft.com/en-us/windows-hardware/design/compatibility/whcp-certification-process}, March 2022.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{oracle_graph_database}
 Oracle.
 \newblock What is a graph database?
-\newblock
-  \url{https://www.oracle.com/autonomous-database/what-is-graph-database/},
-  November 2024.
+\newblock \url{https://www.oracle.com/autonomous-database/what-is-graph-database/}, November 2024.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{proofpoint_telemetry}
 Proofpoint.
 \newblock What is telemetry? telemetry cybersecurity explained.
-\newblock
-  \url{https://www.proofpoint.com/us/threat-reference/telemetry#:~:text=Security%20telemetry%20involves%20data%20collection,%2C%20vulnerabilities%2C%20or%20potential%20breaches.}
+\newblock \url{https://www.proofpoint.com/us/threat-reference/telemetry#:~:text=Security%20telemetry%20involves%20data%20collection,%2C%20vulnerabilities%2C%20or%20potential%20breaches.}
 \newblock Accessed: November 30, 2024.
 
 \bibitem{reasonlabs_kernel_hooking}
 ReasonLabs.
 \newblock What is kernel-level hooking?
-\newblock
-  \url{https://cyberpedia.reasonlabs.com/EN/kernel-level%20hooking.html}.
+\newblock \url{https://cyberpedia.reasonlabs.com/EN/kernel-level%20hooking.html}.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{sandker_named_pipes_2021}
 Carsten Sandker.
 \newblock Offensive windows ipc internals 1: Named pipes.
-\newblock
-  \url{https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html},
-  January 2021.
+\newblock \url{https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html}, January 2021.
 \newblock Accessed: November 30, 2024.
 
 \bibitem{sato_crowdstrike_ceo_2024}
 Mia Sato.
-\newblock Crowdstrike ceo was working for mcafee in 2010 when there was a
-  global tech outage too.
+\newblock Crowdstrike ceo was working for mcafee in 2010 when there was a global tech outage too.
 \newblock {\em The Verge}, July 2024.
 \newblock Posted at 9:33 AM EDT, 9 Comments, 9 New.
 
 \bibitem{tidy_crowdstrike_outage_2024}
 Joe Tidy.
-\newblock Crowdstrike it outage affected 8.5 million windows devices, microsoft
-  says.
+\newblock Crowdstrike it outage affected 8.5 million windows devices, microsoft says.
 \newblock {\em BBC News}, July 2024.
 
 \bibitem{volenik_crowdstrike_ceo_2024}
 Adrian Volenik.
-\newblock Crowdstrike ceo was working for mcafee in 2010 when there was a
-  global tech outage too.
+\newblock Crowdstrike ceo was working for mcafee in 2010 when there was a global tech outage too.
 \newblock {\em The Verge}, July 2024.
 \newblock 4 min read.
 
 \bibitem{weston_windows_security_2024}
 David Weston.
-\newblock Windows security best practices for integrating and managing security
-  tools.
-\newblock
-  \url{https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/},
-  July 2024.
+\newblock Windows security best practices for integrating and managing security tools.
+\newblock \url{https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/}, July 2024.
 \newblock 16 min read, Accessed: November 30, 2024.
 
 \end{thebibliography}
